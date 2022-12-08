@@ -3,3 +3,4 @@ Nova alteração.
 Apenas praticando.
 GitHub.
 Alterando novamente.
+Testando push de outra máquina.
