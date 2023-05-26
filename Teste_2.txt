@@ -2,4 +2,3 @@ Inserindo dados no Git.
 Nova alteração.
 Apenas praticando.
 GitHub.
-Alterando novamente.
