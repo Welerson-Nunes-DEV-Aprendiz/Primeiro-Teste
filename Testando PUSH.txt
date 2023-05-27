@@ -1,0 +1,3 @@
+git checkout main
+git commit -m "Foco na prática"
+git push
