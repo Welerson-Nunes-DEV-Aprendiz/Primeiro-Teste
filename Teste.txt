@@ -1,3 +1,8 @@
 Olá, meu nome é Welerson!
 Inserindo uma nova linha.
+<<<<<<< HEAD
 Novo teste.
+=======
+Novo teste.
+Mais alterações.
+>>>>>>> 6beebe2ef26e881f4dc697352480d06fec7016e7

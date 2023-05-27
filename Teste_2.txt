@@ -2,3 +2,9 @@ Inserindo dados no Git.
 Nova alteração.
 Apenas praticando.
 GitHub.
+<<<<<<< HEAD
+=======
+Alterando novamente.
+Testando push de outra máquina.
+Nova alteração.
+>>>>>>> 6beebe2ef26e881f4dc697352480d06fec7016e7
